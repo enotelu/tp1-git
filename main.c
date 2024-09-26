@@ -1,1 +1,1 @@
-#include <stdio.h>\nint main() { printf("Bienvenue dans Git\\n"); return 0; }
+#include <stdio.h>\nint main() { printf("Nouveau message\\n"); return 0; }
